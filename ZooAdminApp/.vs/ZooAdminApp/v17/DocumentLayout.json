@@ -1,0 +1,534 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\views\\userswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\views\\userswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\views\\medicalrecordswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\views\\medicalrecordswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\views\\medicalrecordformwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\views\\medicalrecordformwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\views\\logswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\views\\logswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\views\\animalswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\views\\animalswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\views\\animalformwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\views\\animalformwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\models\\logdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\models\\logdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\models\\animalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\models\\animalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\helper\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\helper\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\api\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\api\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\api\\medicalapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\api\\medicalapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\api\\lookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\api\\lookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\api\\logsapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\api\\logsapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\api\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\api\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\api\\animalapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\api\\animalapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\views\\animalswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\views\\animalswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\views\\userswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\views\\userswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\views\\logswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\views\\logswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\views\\medicalrecordformwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\views\\medicalrecordformwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\views\\medicalrecordswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\views\\medicalrecordswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\views\\animalformwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\views\\animalformwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|c:\\users\\kissb\\desktop\\projekt\\zooadminapp\\zooadminapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FAC1811-0235-451C-969E-B69AD4E4A69C}|ZooAdminApp\\ZooAdminApp.csproj|solutionrelative:zooadminapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\LogsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Views\\LogsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\LogsWindow.xaml.cs",
+              "RelativeToolTip": "ZooAdminApp\\Views\\LogsWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:29:40.234Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "ZooAdminApp\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:09:28.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\App.xaml.cs",
+              "RelativeToolTip": "ZooAdminApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:09:22.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedicalRecordFormWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\MedicalRecordFormWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Views\\MedicalRecordFormWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\MedicalRecordFormWindow.xaml.cs",
+              "RelativeToolTip": "ZooAdminApp\\Views\\MedicalRecordFormWindow.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwCYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T13:36:11.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ZooAdminApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:02:19.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ZooAdminApp\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwBwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:13:19.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MedicalRecordsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\MedicalRecordsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Views\\MedicalRecordsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\MedicalRecordsWindow.xaml.cs",
+              "RelativeToolTip": "ZooAdminApp\\Views\\MedicalRecordsWindow.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T13:36:54.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\UsersWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Views\\UsersWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\UsersWindow.xaml.cs",
+              "RelativeToolTip": "ZooAdminApp\\Views\\UsersWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:30:33.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnimalsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\AnimalsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Views\\AnimalsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\AnimalsWindow.xaml.cs",
+              "RelativeToolTip": "ZooAdminApp\\Views\\AnimalsWindow.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAewC8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T09:29:19.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnimalFormWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\AnimalFormWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Views\\AnimalFormWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\AnimalFormWindow.xaml.cs",
+              "RelativeToolTip": "ZooAdminApp\\Views\\AnimalFormWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIAwwDkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T10:44:03.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Models\\UserModel.cs",
+              "RelativeToolTip": "ZooAdminApp\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T14:21:28.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MedicalRecord.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Models\\MedicalRecord.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Models\\MedicalRecord.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Models\\MedicalRecord.cs",
+              "RelativeToolTip": "ZooAdminApp\\Models\\MedicalRecord.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAApwCoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:08:05.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LogDto.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Models\\LogDto.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Models\\LogDto.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Models\\LogDto.cs",
+              "RelativeToolTip": "ZooAdminApp\\Models\\LogDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:41:25.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AnimalModel.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Models\\AnimalModel.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Models\\AnimalModel.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Models\\AnimalModel.cs",
+              "RelativeToolTip": "ZooAdminApp\\Models\\AnimalModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:07:18.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Helper\\Session.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Helper\\Session.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Helper\\Session.cs",
+              "RelativeToolTip": "ZooAdminApp\\Helper\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:07:06.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserApi.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Api\\UserApi.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Api\\UserApi.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Api\\UserApi.cs",
+              "RelativeToolTip": "ZooAdminApp\\Api\\UserApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:26:03.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MedicalApi.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Api\\MedicalApi.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Api\\MedicalApi.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Api\\MedicalApi.cs",
+              "RelativeToolTip": "ZooAdminApp\\Api\\MedicalApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:06:33.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LookUp.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Api\\LookUp.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Api\\LookUp.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Api\\LookUp.cs",
+              "RelativeToolTip": "ZooAdminApp\\Api\\LookUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:06:50.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LogsApi.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Api\\LogsApi.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Api\\LogsApi.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Api\\LogsApi.cs",
+              "RelativeToolTip": "ZooAdminApp\\Api\\LogsApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:43:10.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Api\\ApiClient.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Api\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Api\\ApiClient.cs",
+              "RelativeToolTip": "ZooAdminApp\\Api\\ApiClient.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAvwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:05:47.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AnimalApi.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Api\\AnimalApi.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Api\\AnimalApi.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Api\\AnimalApi.cs",
+              "RelativeToolTip": "ZooAdminApp\\Api\\AnimalApi.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:06:20.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AnimalsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\AnimalsWindow.xaml",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Views\\AnimalsWindow.xaml",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\AnimalsWindow.xaml",
+              "RelativeToolTip": "ZooAdminApp\\Views\\AnimalsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-10T16:12:04.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ZooAdminApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\MainWindow.xaml",
+              "RelativeToolTip": "ZooAdminApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-10T16:02:47.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UsersWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\UsersWindow.xaml",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Views\\UsersWindow.xaml",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\UsersWindow.xaml",
+              "RelativeToolTip": "ZooAdminApp\\Views\\UsersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-19T13:30:20.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MedicalRecordsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\MedicalRecordsWindow.xaml",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Views\\MedicalRecordsWindow.xaml",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\MedicalRecordsWindow.xaml",
+              "RelativeToolTip": "ZooAdminApp\\Views\\MedicalRecordsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-10T16:11:04.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LogsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\LogsWindow.xaml",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Views\\LogsWindow.xaml",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\LogsWindow.xaml",
+              "RelativeToolTip": "ZooAdminApp\\Views\\LogsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-19T13:28:22.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MedicalRecordFormWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\MedicalRecordFormWindow.xaml",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Views\\MedicalRecordFormWindow.xaml",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\MedicalRecordFormWindow.xaml",
+              "RelativeToolTip": "ZooAdminApp\\Views\\MedicalRecordFormWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-10T16:09:36.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AnimalFormWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\AnimalFormWindow.xaml",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Views\\AnimalFormWindow.xaml",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\AnimalFormWindow.xaml",
+              "RelativeToolTip": "ZooAdminApp\\Views\\AnimalFormWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-10T16:11:42.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "ZooAdminApp\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-10T16:08:53.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\App.xaml",
+              "RelativeDocumentMoniker": "ZooAdminApp\\App.xaml",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\App.xaml",
+              "RelativeToolTip": "ZooAdminApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-10T16:23:58.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "ZooAdminApp\\Models\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\kissb\\Desktop\\projekt\\ZooAdminApp\\ZooAdminApp\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "ZooAdminApp\\Models\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:07:47.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

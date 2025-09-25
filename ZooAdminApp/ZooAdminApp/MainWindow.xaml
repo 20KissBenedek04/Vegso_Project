@@ -1,0 +1,52 @@
+﻿<Window x:Class="ZooAdminApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Zoo Admin – Dashboard"
+        Height="460" Width="820"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="56"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Fejléc -->
+        <DockPanel Background="#2C3E50">
+            <TextBlock Text="Zoo Admin Dashboard" Foreground="White" FontSize="16" FontWeight="Bold"
+                       VerticalAlignment="Center" Margin="12,0,0,0"/>
+            <StackPanel DockPanel.Dock="Right" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,0,12,0">
+                <TextBlock x:Name="UserNameText" Foreground="White" FontWeight="SemiBold" Margin="0,0,12,0"/>
+                <TextBlock x:Name="UserRoleText" Foreground="#B0C4DE"/>
+            </StackPanel>
+        </DockPanel>
+
+        <!-- Főmenü -->
+        <StackPanel Grid.Row="1" Margin="24">
+            <TextBlock Text="Főmenü" FontSize="18" FontWeight="Bold" Margin="0,0,0,12"/>
+            <WrapPanel>
+                <Button x:Name="AnimalsBtn" Content="Állatok listázása"
+                        Width="220" Height="44" Margin="0,0,12,12"
+                        Click="Animals_Click"/>
+
+                <!-- Vet/Admin: Orvosi bejegyzések -->
+                <Button x:Name="MedicalBtn" Content="Orvosi bejegyzések"
+                        Width="220" Height="44" Margin="0,0,12,12"
+                        Click="Medical_Click"/>
+
+                <!-- Admin: Felhasználók -->
+                <Button x:Name="UsersBtn" Content="Felhasználók kezelése"
+                        Width="220" Height="44" Margin="0,0,12,12"
+                        Click="Users_Click"/>
+
+                <!-- Admin: Logok -->
+                <Button x:Name="LogsBtn" Content="Logok megtekintése"
+                        Width="220" Height="44" Margin="0,0,12,12"
+                        Click="Logs_Click"/>
+
+                <Button Content="Kilépés"
+                        Width="140" Height="44" Margin="0,0,12,12"
+                        Click="Logout_Click"/>
+            </WrapPanel>
+        </StackPanel>
+    </Grid>
+</Window>

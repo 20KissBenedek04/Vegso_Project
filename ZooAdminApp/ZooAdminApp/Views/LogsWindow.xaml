@@ -1,0 +1,33 @@
+﻿<Window x:Class="ZooAdminApp.Views.LogsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Logok (utolsó 20)" Height="480" Width="820"
+        WindowStartupLocation="CenterScreen">
+    <DockPanel Margin="12">
+        <TextBlock DockPanel.Dock="Top"
+                   Text="Legutóbbi események"
+                   FontSize="18" FontWeight="Bold" Margin="0,0,0,8"/>
+        <DataGrid x:Name="Grid"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Időpont"
+                                    Binding="{Binding Timestamp, StringFormat=\{0:yyyy-MM-dd HH:mm:ss\}}"
+                                    Width="160"/>
+                <DataGridTextColumn Header="Felhasználó ID"
+                                    Binding="{Binding UserId}"
+                                    Width="100"/>
+                <DataGridTextColumn Header="Művelet"
+                                    Binding="{Binding Action}"
+                                    Width="160"/>
+                <DataGridTextColumn Header="Cél típus"
+                                    Binding="{Binding TargetType}"
+                                    Width="140"/>
+                <DataGridTextColumn Header="Cél ID"
+                                    Binding="{Binding TargetId}"
+                                    Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </DockPanel>
+</Window>

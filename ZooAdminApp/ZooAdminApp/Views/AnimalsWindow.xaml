@@ -1,0 +1,34 @@
+﻿<Window x:Class="ZooAdminApp.Views.AnimalsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Állatok"
+        Height="560" Width="1000"
+        WindowStartupLocation="CenterScreen">
+    <DockPanel Margin="12">
+        <!-- Filters -->
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBox x:Name="SearchBox" Width="200" Margin="0,0,8,0" VerticalAlignment="Center"/>
+            <ComboBox x:Name="SpeciesCombo" Width="180" Margin="0,0,8,0" DisplayMemberPath="LatinName" SelectedValuePath="Id" />
+            <ComboBox x:Name="TypeCombo" Width="140" Margin="0,0,8,0" DisplayMemberPath="Name" SelectedValuePath="Id" />
+            <ComboBox x:Name="EnclosureCombo" Width="160" Margin="0,0,8,0" DisplayMemberPath="Name" SelectedValuePath="Id" />
+            <Button Content="Keresés" Width="100" Click="Search_Click"/>
+            <Button x:Name="AddBtn" Content="Új állat" Width="100" Margin="8,0,0,0" Click="Add_Click"/>
+        </StackPanel>
+
+        <DataGrid x:Name="Grid"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  IsReadOnly="True"
+                  MouseDoubleClick="Grid_MouseDoubleClick">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="60"/>
+                <DataGridTextColumn Header="Név" Binding="{Binding Name}" Width="180"/>
+                <DataGridTextColumn Header="Faj" Binding="{Binding Species.LatinName}" Width="180"/>
+                <DataGridTextColumn Header="Típus" Binding="{Binding Type.Name}" Width="120"/>
+                <DataGridTextColumn Header="Kifutó" Binding="{Binding Enclosure.Name}" Width="160"/>
+                <DataGridTextColumn Header="Súly" Binding="{Binding Weight}" Width="80"/>
+                <DataGridCheckBoxColumn Header="Aktív" Binding="{Binding IsActive}" Width="70"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </DockPanel>
+</Window>
